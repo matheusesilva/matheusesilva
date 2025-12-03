@@ -1,8 +1,14 @@
 # 💫 About Me:
+Olá! Me chamo Matheus e sou desenvolvedor de aplicações autodidata. Aqui eu compartilho os meus projetos pessoais, scripts e exercícios desenvolvidos durante o meu aprendizado.
+
+## 🚧 Perfil em construção 🚧
+
 🔭 No que estou trabalhando:<br>Construindo um portal de vagas serverless que coleta posts do LinkedIn, usa Python + automação para extrair dados e aplica IA para classificar e organizar oportunidades.<br><br>👯 Quero colaborar em:<br>Projetos inovadores que envolvam Python, automação, APIs e qualquer coisa que misture criatividade com tecnologia.<br><br>🤝 Busco ajuda com:<br>Melhores práticas e arquitetura para sistemas em nuvem enquanto evoluo meu projeto e meus serviços serverless.<br><br>🌱 Aprendendo agora:<br>Java e Spring Boot para ampliar minhas possibilidades no back-end.<br><br>⚡ Curiosidade:<br>Eu falo japonês intermediário e adoro trabalhar com equipes multiculturais.
 
 
 ## 🌐 Socials:
+Vamos nos conectar no LinkedIn ou me segue lá no Instagram para acompanhar as minhas aventuras!
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vai_matheus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusedasilva) 
 
 # 💻 Tech Stack:
