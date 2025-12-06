@@ -3,7 +3,7 @@ Olá! Me chamo Matheus e sou desenvolvedor de aplicações autodidata. Aqui eu c
 
 ## 🚧 Perfil em construção 🚧
 
-🔭 No que estou trabalhando:<br>Construindo um portal de vagas serverless que coleta posts do LinkedIn, usa Python + automação para extrair dados e aplica IA para classificar e organizar oportunidades.<br><br>👯 Quero colaborar em:<br>Projetos inovadores que envolvam Python, automação, APIs e qualquer coisa que misture criatividade com tecnologia.<br><br>🤝 Busco ajuda com:<br>Melhores práticas e arquitetura para sistemas em nuvem enquanto evoluo meu projeto e meus serviços serverless.<br><br>🌱 Aprendendo agora:<br>Java e Spring Boot para ampliar minhas possibilidades no back-end.<br><br>⚡ Curiosidade:<br>Eu falo japonês intermediário e adoro trabalhar com equipes multiculturais.
+🔭 No que estou trabalhando:<br>Construindo um portal de vagas serverless que coleta vagas de diversos portais, usa Python + automação para extrair dados e aplica IA para classificar e organizar oportunidades.<br><br>👯 Quero colaborar em:<br>Projetos inovadores que envolvam Python, automação, APIs e qualquer coisa que misture criatividade com tecnologia.<br><br>🤝 Busco ajuda com:<br>Melhores práticas e arquitetura para sistemas em nuvem enquanto evoluo meu projeto e meus serviços serverless.<br><br>🌱 Aprendendo agora:<br>Java e Spring Boot para ampliar minhas possibilidades no back-end.<br><br>⚡ Curiosidade:<br>Eu falo japonês intermediário e adoro trabalhar com equipes multiculturais.
 
 
 ## 🌐 Socials:
