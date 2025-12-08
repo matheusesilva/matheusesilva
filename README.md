@@ -1,13 +1,12 @@
 # 💫 About Me:
-Olá! Me chamo Matheus e sou desenvolvedor de aplicações autodidata. Aqui eu compartilho os meus projetos pessoais, scripts e exercícios desenvolvidos durante o meu aprendizado.
+Hey! My name's Matheus, and I'm a self-taught software developer. Here I share my personal projects, scripts, and exercises created throughout my learning journey.
 
 ## 🚧 Perfil em construção 🚧
 
-🔭 No que estou trabalhando:<br>Construindo um portal de vagas serverless que coleta vagas de diversos portais, usa Python + automação para extrair dados e aplica IA para classificar e organizar oportunidades.<br><br>👯 Quero colaborar em:<br>Projetos inovadores que envolvam Python, automação, APIs e qualquer coisa que misture criatividade com tecnologia.<br><br>🤝 Busco ajuda com:<br>Melhores práticas e arquitetura para sistemas em nuvem enquanto evoluo meu projeto e meus serviços serverless.<br><br>🌱 Aprendendo agora:<br>Java e Spring Boot para ampliar minhas possibilidades no back-end.<br><br>⚡ Curiosidade:<br>Eu falo japonês intermediário e adoro trabalhar com equipes multiculturais.
-
+🔭 What I’m working on:<br>Building a serverless job portal that gathers openings from multiple platforms, uses Python + automation to extract data, and applies AI to classify and organize opportunities.<br><br>👯 I want to collaborate on:<br>Innovative projects involving Python, automation, APIs, and anything that blends creativity with technology.<br><br>🤝 I’m looking for help with:<br>Best practices and architecture for cloud systems as I improve my project and serverless services.<br><br>🌱 Currently learning:<br>Java and Spring Boot to expand my back-end possibilities.<br><br>⚡ Fun fact:<br>I speak intermediate Japanese and enjoy working with multicultural teams.
 
 ## 🌐 Socials:
-Vamos nos conectar no LinkedIn ou me segue lá no Instagram para acompanhar as minhas aventuras!
+Let’s connect on LinkedIn or follow me on Instagram to keep up with my adventures!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vai_matheus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusedasilva) 
 
