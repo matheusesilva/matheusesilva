@@ -1,12 +1,12 @@
 # 💫 About Me:
 Hey! My name's Matheus, and I'm a self-taught software developer. Here I share my personal projects, scripts, and exercises created throughout my learning journey.
 
-## 🚧 Profile Under Construction 🚧
-
 🔭 What I’m working on:<br>Building a serverless job portal that gathers openings from multiple platforms, uses Python + automation to extract data, and applies AI to classify and organize opportunities.<br><br>👯 I want to collaborate on:<br>Innovative projects involving Python, automation, APIs, and anything that blends creativity with technology.<br><br>🤝 I’m looking for help with:<br>Best practices and architecture for cloud systems as I improve my project and serverless services.<br><br>🌱 Currently learning:<br>Java and Spring Boot to expand my back-end possibilities.<br><br>⚡ Fun fact:<br>I speak intermediate Japanese and enjoy working with multicultural teams.
 
-## 🌐 Socials:
-Let’s connect on LinkedIn or follow me on Instagram to keep up with my adventures!
+## 💼 Job Opportunities
+Are you looking for a talented developer? I'm open to opportunities.
+
+**[Download](https://docs.google.com/document/d/1UdEANGkLYuIdDeAWc70SbcsZ7IPVrBa0wMt4e3SVWx0/edit?usp=sharing)** my resume or hit me up on my social media.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vai_matheus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusedasilva) 
 
