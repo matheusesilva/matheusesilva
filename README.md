@@ -6,7 +6,7 @@ Hey! My name's Matheus, and I'm a self-taught software developer. Here I share m
 ## 💼 Job Opportunities
 Are you looking for a talented developer? I'm open to opportunities.
 
-**[Download](https://docs.google.com/document/d/1UdEANGkLYuIdDeAWc70SbcsZ7IPVrBa0wMt4e3SVWx0/edit?usp=sharing)** my resume or hit me up on my social media.
+**[Download](https://docs.google.com/document/d/1UdEANGkLYuIdDeAWc70SbcsZ7IPVrBa0wMt4e3SVWx0/edit?tab=t.0)** my resume or hit me up on my social media.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vai_matheus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusedasilva) 
 
